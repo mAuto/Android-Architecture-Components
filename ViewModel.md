@@ -1,4 +1,4 @@
-Android Architecture Components ------> ViewModel
+# Android Architecture Components ------> ViewModel
 
 <0> 读了Android Architecture Components ViewModel的官方文档之后，至少有下几个问题需要弄清楚
     a 如何保证ViewModel不泄露
